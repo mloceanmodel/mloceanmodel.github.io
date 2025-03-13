@@ -11,7 +11,7 @@ title: "Schedule"
 - Workshop goals & structure 
 - Introduction to key themes
 
-#### 10:35-11:00 | Open Keynote
+#### 10:35-11:00 | Opening Keynote
 
 #### 11:00-12:00 | Session 1: AI for Ocean Model Analysis, Postprocessing and Downstream Uses
 - Keynote Talk (30 min)
