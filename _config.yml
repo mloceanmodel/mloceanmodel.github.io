@@ -76,14 +76,14 @@ plugins:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
-#footer:
-#  links:
+footer:
+  links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mloceanmodel"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
