@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Register"
+    url: /register/
+  - title: "Keynote Speakers"
+    url: /keynote_speakers/
+  - title: "Schedule"
+    url: /schedule/
