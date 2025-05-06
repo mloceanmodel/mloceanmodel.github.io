@@ -1,6 +1,7 @@
 ---
 permalink: /keynote_speakers/
 title: "Keynote Speakers"
+classes: wide
 ---
 
 [\\]: # This is a comment
