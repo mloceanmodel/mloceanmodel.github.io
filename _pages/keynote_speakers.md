@@ -11,7 +11,7 @@ classes: wide
   <img src="/assets/images/Bryan_Lawrence_NCAS.jpeg" alt="Bryan" style="width:200px;">
   <div>
 
-	<b>Prof. Bryan Lawrence </b> is Professor of Weather and Climate Computing at the University and an National Centre for Atmospheric Science (NCAS) senior scientist. With a background in atmosphere dynamics, Prof. Lawrence has  previously held research positions at the University of Oxford and the Rutherford Appleton Laboratory, a physics lectureship at the University of Canterbury (NZ), and management positions in NCAS and the Science and Technology Facilities Council (STFC).  His research interests now encompass high-performance computing, data infrastructure (systems, software and standards), and the performance of Earth system models.  
+	<b>Prof. Bryan Lawrence </b> is Professor of Weather and Climate Computing at the University of Reading and a Senior Scientist at the National Centre for Atmospheric Science (NCAS). With a background in atmosphere dynamics, Prof. Lawrence has  previously held research positions at the University of Oxford and the Rutherford Appleton Laboratory, a physics lectureship at the University of Canterbury (NZ), and management positions in NCAS and the Science and Technology Facilities Council (STFC).  His research interests now encompass high-performance computing, data infrastructure (systems, software and standards), and the performance of Earth system models.  
 <br>
 <br>
 In his keynote talk, Prof. Lawrence will discuss the evolving role of AI in climate modelling, focusing on the integration of machine learning with traditional modelling approaches. He will address the challenges and opportunities in developing trustworthy and generalisable AI systems for ocean and climate projections.
@@ -34,6 +34,27 @@ Dr. Sonnewald’s work focuses on developing physics-informed machine learning m
 <br>
 In her keynote talk, part of the session on Observation System Simulation Experiments (OSSEs), Dr. Sonnewald will share insights from her work at the intersection of ocean observations, modelling, and AI. She will highlight the potential of machine learning to deepen our understanding of ocean dynamics and the value of interdisciplinary collaboration in driving progress in ocean science.
   </div>
+</div>
+
+<br>
+<br>
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <img src="/assets/images/fablet.jpg" alt="Ronan" style="width:200px;">
+  <div>
+ 
+	<b>Prof. Ronan Fablet</b> is a Professor at IMT Atlantique and a research scientist at Lab-STICC, specialising in the field of Data Science and Computational Imaging. He leads the AI Chair OceaniX, an interdisciplinary initiative that applies machine learning to ocean dynamics, remote sensing, and marine ecology.
+<br>
+<br>
+Prof. Fablet's research focuses on integrating deep learning with dynamical systems to enhance the analysis, simulation, and reconstruction of ocean processes. His work includes developing deep learning for dynamical systems and applications to the understanding, analysis, simulation and reconstruction of ocean dynamics, especially using satellite ocean remote sensing data.
+<br>
+<br>
+In his keynote talk, Prof. Fablet will discuss how AI can improve ocean model analysis, postprocessing, and downstream applications. He will share insights from projects like 4DVarNet and EddyNet, highlighting the potential of AI to advance ocean modelling and forecasting.
+<br>
+<br>
+Prof. Fablet's contributions are shaping the future of ocean science by leveraging AI to better understand and predict ocean dynamics.
+
+</div>
 </div>
 
 <br>
