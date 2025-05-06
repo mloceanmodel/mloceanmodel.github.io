@@ -65,3 +65,6 @@ We invite researchers, students, industry professionals, and policymakers to con
 
 📢 Submit your application by: **12th May** <br/>
 🔗 Apply [here](/register){: style="color: orange"}
+<br>
+<br>
+A list of current in-person attendees can be found [here](/attendees){: style="color: orange"}
