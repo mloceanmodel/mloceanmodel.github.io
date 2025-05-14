@@ -86,3 +86,15 @@ In his keynote talk, Said will investigate online learning and hybrid models to 
 	
   </div>
 </div>
+
+<br>
+<br>
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <img src="/assets/images/XB-Mercator-2025_02-Portraits-136.jpg" alt="Yann" style="width:200px;">
+  <div>
+
+	<b>Yann Drillet</b> is an ocean modeler working at Mercator Ocean since 25 years, he is the Head of the Research And Development Department and deputy scientific director at Mercator Ocean International. The R&D team include researchers and engineers in charge of development of Mercator Ocean’s modeling and data assimilation components as well as the production systems. This includes forecasting, reanalysis and projection activities for the global ocean and for some regions of interest. The current themes managed in the department are ocean physics, sea ice, biogeochemistry and marine ecosystems. Yann Drillet is involved in European and international operational oceanography community especially as member of the OceanPredict science team, of the NEMO ocean model steering committee, as leader of the Global Monitoring and forecasting center for Copernicus Marine Service and as scientific coordinator of the European project EDITO Model Lab.
+	
+  </div>
+</div>
