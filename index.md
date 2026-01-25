@@ -34,4 +34,4 @@ To follow.
 We invite researchers, students, industry professionals, and policymakers to contribute through talks, posters, and discussions.
 
 📢 Abstract submission & registration to follow. <br/>
-<!--🔗 Apply [here](/register){: style="color: orange"}>
+<!--🔗 Apply [here](/register){: style="color: orange"}-->
