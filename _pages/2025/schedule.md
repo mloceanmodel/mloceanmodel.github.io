@@ -1,14 +1,17 @@
 ---
-permalink: /schedule/
+permalink: /2025/schedule/
 title: "Schedule"
 ---
 
+[2025 webpages](/2025/index){: style="color: orange"}
+- [Registation](/2025/register){: style="color: orange"}
+- [Keynote Speakers](/2025/keynote_speakers){: style="color: orange"}
+- Schedule
+- [Attendees](/2025/attendees){: style="color: orange"}
+
 🗓️Machine Learning for Ocean Modelling Workshop
 
-Details of the schedule are being worked out. Over the two days, we are planning for three or four sessions with keynote and oral presentations, a dedicated poster session, hands-on workshops and breakout groups.
-
-## 🕘Day 1 - Tuesday 7 July 2026
-<!--
+## 🕘Day 1 - Tuesday, 24 June 2025
 
 #### 10:30-10:35 | Welcome & Opening Remarks
 - Workshop goals & structure 
@@ -38,10 +41,7 @@ Dedicated engagement with posters from Sessions 1 & 2
 - Breakout 1: AI-Only Ocean Modelling - Hype or Future Reality?
 - Breakout 2: Building an Ocean ML Community - Skills, Training & Collaboration 
 
--->
-
-## 🕘Day 2 - Wednesday 8 July 2026 
-<!--
+## 🕘Day 2 - Wednesday, 25 June 2025 
 
 #### 9:00-10:02 | Session 3: Benchmarking AI for Ocean Modelling - Methods, Metrics, and Challenges
 - Keynote Talk (30 min)
@@ -70,4 +70,5 @@ Dedicated engagement with posters from Sessions 3 & 4
 - Key takeaways from sessions & breakouts
 - Position paper outlines & next steps 
 
--->
+
+
