@@ -18,7 +18,7 @@ classes: wide
 We are excited to announce the second Machine Learning for Ocean Modelling Workshop, following our successful first edition last year. We are bringing together researchers to explore the evolving role of AI and ML in ocean science, share advancements, and discuss future directions. The workshop will feature keynote talks, short presentations, and posters on key themes in the crossover between ocean modelling and ML. We are also planning hands-on workshops.
 The event aims to foster collaboration, map UK Ocean AI activities, and identify challenges and opportunities in this rapidly growing field.
 
-You can review last year's information on the [2025 pages](/2025){: style="color: orange"}.
+You can review last year's information on the [2025 pages](/2025/){: style="color: orange"}.
 
 ## Themes & Sessions
 

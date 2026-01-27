@@ -5,6 +5,8 @@ header:
   image: /assets/images/ocean.jpg
   caption: "Somewhere in the North Atlantic"
 classes: wide
+permalink: /2025/
+title: "2025 Index"
 ---
 
 
