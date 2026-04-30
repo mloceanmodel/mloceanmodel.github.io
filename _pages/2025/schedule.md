@@ -3,11 +3,11 @@ permalink: /2025/schedule/
 title: "Schedule"
 ---
 
-[2025 webpages](/2025/index){: style="color: orange"}
-- [Registation](/2025/register){: style="color: orange"}
-- [Keynote Speakers](/2025/keynote_speakers){: style="color: orange"}
+[2025 webpages](/2025/index)
+- [Registation](/2025/register)
+- [Keynote Speakers](/2025/keynote_speakers)
 - Schedule
-- [Attendees](/2025/attendees){: style="color: orange"}
+- [Attendees](/2025/attendees)
 
 🗓️Machine Learning for Ocean Modelling Workshop
 

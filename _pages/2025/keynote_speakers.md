@@ -4,11 +4,11 @@ title: "Keynote Speakers"
 classes: wide
 ---
 
-[2025 webpages](/2025/index){: style="color: orange"}
-- [Registation](/2025/register){: style="color: orange"}
+[2025 webpages](/2025/index)
+- [Registation](/2025/register)
 - Keynote Speakers
-- [Schedule](/2025/schedule){: style="color: orange"}
-- [Attendees](/2025/attendees){: style="color: orange"}
+- [Schedule](/2025/schedule)
+- [Attendees](/2025/attendees)
 
 [\\]: # This is a comment
 <br>

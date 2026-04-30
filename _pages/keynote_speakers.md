@@ -6,22 +6,34 @@ classes: wide
 
 [\\]: # This is a comment
 
-Details about our keynote speakers will follow.
-
-<!--
 
 <br>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-  <img src="/assets/images/Bryan_Lawrence_NCAS.jpeg" alt="Bryan" style="width:200px;">
+  <!--<img src="/assets/images/2026/rosie.webp" alt="Rosie" style="width:200px;">-->
+  <div>
+<b><a href="https://research.ibm.com/people/rosie-lickorish">Rosie Lickorish</a></b> is a Research Software Engineer at IBM, specializing in the development of next-generation tools and technologies designed to drastically accelerate solutions for today’s most urgent global challenges. Her technical focus involves leveraging geospatial data, AI models, and scalable cloud architectures, with a critical emphasis on applications for climate change mitigation and adaptation. A recognized innovator within the organization, Rosie is designated as a Senior Inventor at IBM and holds two high-value patents.
+</div>
+</div>
+
+
+
+<br>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <img src="/assets/images/2026/pavel_cropped.jpg" alt="Pavel" style="width:200px;">
   <div>
 
-	<b>Prof. Bryan Lawrence </b> is Professor of Weather and Climate Computing at the University of Reading and a Senior Scientist at the National Centre for Atmospheric Science (NCAS). With a background in atmosphere dynamics, Prof. Lawrence has  previously held research positions at the University of Oxford and the Rutherford Appleton Laboratory, a physics lectureship at the University of Canterbury (NZ), and management positions in NCAS and the Science and Technology Facilities Council (STFC).  His research interests now encompass high-performance computing, data infrastructure (systems, software and standards), and the performance of Earth system models.  
+	<b>Pavel Perezhogin</b> received his PhD in 2021 from the Institute of Numerical Mathematics in Moscow under the supervision of Dr. Andrey Glazunov. He subsequently worked as a Postdoctoral Associate and later as a Research Scientist at the Courant Institute, New York University, in the group of Prof. Laure Zanna, as part of the M2LinES project. 
 <br>
 <br>
-In his keynote talk, Prof. Lawrence will discuss the evolving role of AI in climate modelling, focusing on the integration of machine learning with traditional modelling approaches. He will address the challenges and opportunities in developing trustworthy and generalisable AI systems for ocean and climate projections.
+Broadly, Pavel's research focuses on improving the representation of unresolved turbulent phenomena in ocean models and evaluating their impact on climate projections. Throughout his career, he has investigated various approaches to parameterizing the effects of mesoscale eddies in eddy-permitting ocean models using physics-based and machine-learning methods, with parameterizations evaluated in GFDL, NCAR, and European ocean models. His PhD research connects the mesoscale parameterization problem to the broader three-dimensional turbulence-closure problem, revealing common physical principles across engineering and geophysical turbulent flows. His Postdoc research addresses problems on how to utilize machine-learning methods while respecting physical principles, such as, for example, dimensional consistency.
+
 </div>
 </div>
+
+
+<!--
 
 <br>
 <br>

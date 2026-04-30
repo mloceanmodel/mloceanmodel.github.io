@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: /assets/images/ocean.jpg
+  image: /assets/images/ocean.webp
   caption: "Somewhere in the North Atlantic"
 classes: wide
 permalink: /2025/
@@ -11,10 +11,10 @@ title: "2025 Index"
 
 
 2025 webpages
-- [Registation](/2025/register){: style="color: orange"}
-- [Keynote Speakers](/2025/keynote_speakers){: style="color: orange"}
-- [Schedule](/2025/schedule){: style="color: orange"}
-- [Attendees](/2025/attendees){: style="color: orange"}
+- [Registation](/2025/register)
+- [Keynote Speakers](/2025/keynote_speakers)
+- [Schedule](/2025/schedule)
+- [Attendees](/2025/attendees)
 
 
 
@@ -75,7 +75,7 @@ Network building for future collaborations and funding proposals.
 We invite researchers, students, industry professionals, and policymakers to contribute through talks, posters, and discussions.
 
 📢 Submit your application by: **12th May** <br/>
-🔗 Apply [here](/register){: style="color: orange"}
+🔗 Apply [here](/register)
 <br>
 <br>
-A list of current in-person attendees can be found [here](/attendees){: style="color: orange"}
+A list of current in-person attendees can be found [here](/attendees)

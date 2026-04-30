@@ -5,69 +5,65 @@ title: "Schedule"
 
 🗓️Machine Learning for Ocean Modelling Workshop
 
-Details of the schedule are being worked out. Over the two days, we are planning for three or four sessions with keynote and oral presentations, a dedicated poster session, hands-on workshops and breakout groups.
+Details of the schedule are below. Over the two days, we have three sessions with keynote and oral presentations, a dedicated poster session, a practical session and breakout groups.
+
+All times are in BST (GMT +1).
+{: .notice--info}
 
 ## 🕘Day 1 - Tuesday 7 July 2026
-<!--
 
-#### 10:30-10:35 | Welcome & Opening Remarks
-- Workshop goals & structure 
-- Introduction to key themes
 
-#### 10:35-11:00 | Opening Keynote
+#### 09:30 - 10:00 | Arrival
+- Tea and coffee
 
-#### 11:00-12:30 | Session 1: AI for Ocean Model Analysis, Postprocessing and Downstream Uses
-- Keynote Talk (30 min)
-- Oral Presentations (3 x 15 min)
-- Flash Poster Presentations (2 min each, ~6 total)
+#### 10:00 - 10:15 | Opening remarks
+- Introduction to the workshop and key themes
 
-#### 🍽️12:30-13:30 | Lunch
+#### 10:15 - 10:50 | Opening Keynote
 
-#### 13:30-14:50 | Session 2: Integrating Ocean Processes and Hybrid Approaches in ML 
-- Keynote Talk (30 min)
-- Oral Presentations (3 x 15 min)
-- Flash Poster Presentations (2 min each, ~6 total) 
+#### 10:50 - 11:00 | Practical session: Introduction
 
-#### ☕14:50-15:30 | Coffee Break
+#### 11:00 - 12:30 | Practical session:
 
-#### 15:30-16:30 | Poster Session 1 & 2 & Networking 
+1. Anemoi demo
+2. Hybrid ML modelling
+3. ML for newbies
 
-Dedicated engagement with posters from Sessions 1 & 2
+#### 12:30 - 13:30 | Lunch
 
-#### 16:30-17:30 | Parallel Breakout Sessions 
-- Breakout 1: AI-Only Ocean Modelling - Hype or Future Reality?
-- Breakout 2: Building an Ocean ML Community - Skills, Training & Collaboration 
+#### 13:30 - 15:30 | Oral session 1 - ML for analysis and downstream applications
+- 15 minute (12 + 3) talks
 
--->
+#### 15:30 - 16:00 | Tea and coffee
+
+#### 16:00 - 17:30 | Breakout discussions
+
+- Topics and questions TBC
+- There is space on the registration form for suggestions.
+
+#### 17:30 | Close
+
+#### 19:00 | Optional evening meal
+
 
 ## 🕘Day 2 - Wednesday 8 July 2026 
-<!--
 
-#### 9:00-10:02 | Session 3: Benchmarking AI for Ocean Modelling - Methods, Metrics, and Challenges
-- Keynote Talk (30 min)
-- Oral Presentation (3 x 15 min)
-- Flash Poster Presentations (2 min each, ~6 total)
+#### 09:00 - 10:30 | Oral session 2 - ML for observations, modelling and data assimilation 
+- Keynote (30 minutes)
+- 15 minute (12 + 3) talks
 
-#### ☕10:02-10:30 | Coffee Break
+#### 10:30 - 11:00 | Tea and coffee
 
-#### 10:30-12:30 | Session 4: AI for Ocean Observations (OSSEs) & AI for Prediction 
-- Keynote Talk (30 min)
-- Oral Presentations (3 x 15 min)
-- Flash Poster Presentations (2 min each, ~6 total)
+#### 11:00 - 12:00 | Poster session
 
-#### 🍽️12:30-13:30 | Lunch
+- Max A0 portrait please.
 
-#### 13:30-14:00 | Poster Session 3 & 4 & Networking
-Dedicated engagement with posters from Sessions 3 & 4
+#### 12:00 - 13:00 | Lunch
 
-#### ☕14:00-14:30 | Coffee Break 
+#### 13:00 - 15:00 | Oral session 3 - Integrating ocean processes and hybrid physics-ML modelling
+- Keynote (30 minutes)
+- 15 minute (12 + 3) talks
 
-#### 14:30-15:30 | Parallel Breakout Sessions 
-- Breakout 3: Mapping UK Ocean AI Activities - Research, Industry and Collaboration. Identifying key players, initiatives & opportunities for collaboration
-- Breakout 4: Trustworthy and generalisable AI for ocean modelling
+#### 15:00 - 15:30 | Tea and coffee
 
-#### 15:30-16:00 | Workshop Summary & Closing Remarks
-- Key takeaways from sessions & breakouts
-- Position paper outlines & next steps 
-
--->
+#### 15:30 - 16:00 | Closing discussion
