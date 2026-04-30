@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   UK Machine Learning Ocean Modelling Workshop
 #twitter_username: username
 #github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 search: false
 
 # Build settings
