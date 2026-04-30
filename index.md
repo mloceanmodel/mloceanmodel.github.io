@@ -9,7 +9,7 @@ classes: wide
 
 📅Date: 7-8 July 2026<br/>
 📍Location: National Oceanography Centre, Southampton, UK (In-person & Remote Options)<br/>
-⚒️Organized by: NCAS, NOC, BAS, Met Office, and ECMWF
+⚒️Organized by: BAS, ECMWF, Met Office, NCAS and NOC
 
 🔎Contact: 
 
@@ -28,12 +28,18 @@ The National Oceanography Centre (NOC) in Southampton is located on the docks, a
 
 #### ML for analysis and downstream applications
 
+This session will explore how ML can enhance the analysis, postprocessing, and downstream applications of ocean model outputs. Topics may include bias correction, feature extraction, uncertainty quantification, and linking model outputs to decision-making processes in climate science, marine ecosystem, and operational oceanography. 
+
 #### ML for observations, modelling and data assimilation
+
+This session will cover AI applications in ocean observing systems and predictive modelling, including AI-driven Observation System Simulation Experiments (OSSEs), data fusion, data assimilation, and real-time forecasting. It will also address how AI can enhance ocean monitoring and improve the representation of physical and biogeochemical processes in both models and observational frameworks.
 
 #### Integrating ocean processes and hybrid physics-ML modelling
 
+This session will explore methods to embed process-based constraints, conservation laws, and ocean dynamics into machine learning models, as well as hybrid approaches that combine machine learning with traditional numerical ocean models. Topics may include physical-informed ML, ML-driven parameterisation, model correction, and surrogate modelling techniques to enhance both accuracy and computational efficiency. 
 
-### Hands-on sessions:
+
+### Practical sessions:
 These are designed to be interactive, allowing us all to play around with something that might be new to us.
 
 - [Anemoi](https://www.ecmwf.int/en/about/media-centre/news/2024/anemoi-new-framework-weather-forecasting-based-machine-learning) demo 
