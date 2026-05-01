@@ -11,7 +11,7 @@ classes: wide
 📍Location: National Oceanography Centre, Southampton, UK (In-person & Remote Options)<br/>
 ⚒️Organized by: BAS, ECMWF, Met Office, NCAS and NOC
 
-🔎Contact: 
+🔎Contact: atb299 at noc.ac.uk for science/conference questions, [NOC events](https://noc-events.co.uk/contact) for admin "behind the scenes" questions.
 
 ## About the Workshop
 
