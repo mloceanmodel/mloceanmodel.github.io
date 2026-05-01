@@ -7,8 +7,9 @@ title: "Schedule"
 
 Details of the schedule are below. Over the two days, we have three sessions with keynote and oral presentations, a dedicated poster session, a practical session and breakout groups.
 
-All times are in BST (GMT +1).
-{: .notice--info}
+The schedule is provisional and subject to change. It will be updated and finalised after registration has closed.
+{: .notice--warning}
+
 
 ## 🕘Day 1 - Tuesday 7 July 2026
 
@@ -67,3 +68,7 @@ All times are in BST (GMT +1).
 #### 15:00 - 15:30 | Tea and coffee
 
 #### 15:30 - 16:00 | Closing discussion
+
+
+All times are in BST (GMT +1).
+{: .notice--info}
