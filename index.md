@@ -60,6 +60,6 @@ These are designed to be interactive, allowing us all to play around with someth
 We invite researchers, students, industry professionals, and policymakers to contribute through talks, posters, and discussions.
 
 ### 📢 Abstract submission & registration<br/>
-Apply [here](/register) when registration opens.
+Apply [here](https://noc-events.co.uk/machine-learning-ocean-modelling-workshop).
 
 <!-- Registration and abstract submissions will close on **April 4th September**.-->
