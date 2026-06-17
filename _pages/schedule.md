@@ -26,11 +26,15 @@ The schedule is provisional and subject to change. It will be updated and finali
 #### 11:00 - 12:20 | Oral session 1 - ML for analysis and downstream applications
 - 20 minute (15 minutes for presenting + 5 minutes for questions) talks
 
-    - *11:00 - 11:20* | Thomas Prime: Physically Informed Neural Network to infer δ¹⁸O distributions from routinely observed oceanographic variables
-    - *11:20 - 11:40* | Mojtaba Masoudi: The Geometry of Embedded Representations for Long-Tailed Classification
-    - *11:40 - 12:00* | Yavor Kostov: Transient irreversibility of southern extratropical water mass anomalies under CO2 forcing
-    - *12:00 - 12:20* | Ollie Tooth: OceanDataStore: Accelerating Machine Learning & Model Validation with Cloud-Native Ocean Data
-    - *12:20 - 12:30* | Posters: 1 minute overviews
+    *11:00 - 11:20* | Thomas Prime: Physically Informed Neural Network to infer δ¹⁸O distributions from routinely observed oceanographic variables
+    
+    *11:20 - 11:40* | Mojtaba Masoudi: The Geometry of Embedded Representations for Long-Tailed Classification
+    
+    *11:40 - 12:00* | Yavor Kostov: Transient irreversibility of southern extratropical water mass anomalies under CO2 forcing
+    
+    *12:00 - 12:20* | Ollie Tooth: OceanDataStore: Accelerating Machine Learning & Model Validation with Cloud-Native Ocean Data
+    
+    *12:20 - 12:30* | Posters: 1 minute introductions
 
 #### 12:30 - 13:30 | Lunch
 
@@ -59,13 +63,20 @@ The schedule is provisional and subject to change. It will be updated and finali
 
 #### 09:00 - 11:05 | Oral session 2 - ML for observations, modelling and data assimilation 
 - 20 minute (15 + 5) talks
-    - *09:00 - 09:20* | Gian Giacomo Navarra: "Seasonal Variability of Organic Carbon Flux and Remineralization Inferred With a Bayesian Physics-Informed Neural Network"
-    - *09:20 - 09:40* | Jozef Skakala: "How to emulate a highly complex marine ecosystem model with deep learning"
-    - *09:40 - 10:00* | Niraj Agarwal: "Skillful Global Ocean Emulation and the Role of Correlation-Aware Loss"
-    - *10:00 - 10:05* | Comfort break
-    - *10:05 - 10:25* | Rachel Furner: "Developing a data-driven 3d global ocean model at ECMWF"
-    - *10:25 - 10:45* | Daniel Holmberg: "Njord: A Probabilistic Graph Neural Network for Ensemble Ocean Forecasting"
-    - *10:45 - 11:05* | Thomas Gardner:  "FRAME-FM: a discussion on a joint EDS framework for making AI model training more approachable"
+    
+    *09:00 - 09:20* | Gian Giacomo Navarra: "Seasonal Variability of Organic Carbon Flux and Remineralization Inferred With a Bayesian Physics-Informed Neural Network"
+    
+    *09:20 - 09:40* | Jozef Skakala: "How to emulate a highly complex marine ecosystem model with deep learning"
+    
+    *09:40 - 10:00* | Niraj Agarwal: "Skillful Global Ocean Emulation and the Role of Correlation-Aware Loss"
+    
+    *10:00 - 10:05* | Comfort break
+    
+    *10:05 - 10:25* | Rachel Furner: "Developing a data-driven 3d global ocean model at ECMWF"
+    
+    *10:25 - 10:45* | Daniel Holmberg: "Njord: A Probabilistic Graph Neural Network for Ensemble Ocean Forecasting"
+    
+    10:45 - 11:05* | Thomas Gardner:  "FRAME-FM: a discussion on a joint EDS framework for making AI model training more approachable"
 
 
 #### 11:05 - 11:30 | Tea and coffee
@@ -80,8 +91,10 @@ The schedule is provisional and subject to change. It will be updated and finali
 
 #### 14:00 - 15:00 | Oral session 3 - Integrating ocean processes and hybrid physics-ML modelling
 - 20 minute (15 + 5) talks
-    - *14:00 - 14:20* | Fay Luxford: "A Physics-Informed Graph Neural Network Surrogate for Nearshore Wave Modelling"
-    - *14:20 - 14:40* | Marcus Juniper: "Lightweight approaches for real-time observation driven bias correction"
+
+     *14:00 - 14:20* | Fay Luxford: "A Physics-Informed Graph Neural Network Surrogate for Nearshore Wave Modelling"
+    
+     *14:20 - 14:40* | Marcus Juniper: "Lightweight approaches for real-time observation driven bias correction"
 
 #### 14:40 | Closing discussion
 
