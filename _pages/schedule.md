@@ -81,7 +81,7 @@ The schedule is provisional and subject to change. It will be updated and finali
 
 #### 11:05 - 11:30 | Tea and coffee
 
-#### 11:35 - 12:35 | Poster session
+#### 11:35 - 12:30 | Poster session
 
 - Max A0 portrait please.
 
