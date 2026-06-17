@@ -20,7 +20,7 @@ The schedule is provisional and subject to change. It will be updated and finali
 #### 10:00 - 10:15 | Opening remarks
 - Introduction to the workshop and key themes
 
-#### 10:15 - 11:00 | Keynote talk
+#### 10:15 - 11:00 | Keynote talk: Rosie Lickorish
 
 
 #### 11:00 - 12:20 | Oral session 1 - ML for analysis and downstream applications
@@ -87,7 +87,7 @@ The schedule is provisional and subject to change. It will be updated and finali
 
 #### 12:30 - 13:15 | Lunch
 
-#### 13:15 - 14:00 | Keynote talk
+#### 13:15 - 14:00 | Keynote talk: Pavel Perezhogin
 
 #### 14:00 - 15:00 | Oral session 3 - Integrating ocean processes and hybrid physics-ML modelling
 - 20 minute (15 + 5) talks
