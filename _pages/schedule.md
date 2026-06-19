@@ -7,7 +7,7 @@ title: "Schedule"
 
 Details of the schedule are below. Over the two days, we have three sessions with keynote and oral presentations, a dedicated poster session, a practical session and breakout groups.
 
-The schedule is provisional and subject to change. It will be updated and finalised after registration has closed.
+The schedule is provisional and subject to change.
 {: .notice--warning}
 
 
@@ -20,7 +20,9 @@ The schedule is provisional and subject to change. It will be updated and finali
 #### 10:00 - 10:15 | Opening remarks
 - Introduction to the workshop and key themes
 
-#### 10:15 - 11:00 | Keynote talk - Rosie Lickorish: "What Geospatial Foundation Models can do for Ocean Modelling"
+#### 10:15 - 11:00 | Keynote talk
+
+Rosie Lickorish: "What Geospatial Foundation Models can do for Ocean Modelling"
 
 
 #### 11:00 - 12:20 | Oral session 1 - ML for analysis and downstream applications
@@ -86,19 +88,23 @@ The schedule is provisional and subject to change. It will be updated and finali
 #### 11:05 - 11:30 | Tea and coffee
 
 #### 11:35 - 12:30 | Poster session
-- James	While: "Machine learned ocean prediction at the Met Office: The SPrAI project"
-- Jonathan Coney: "Interpolating sparse ocean observations using machine learning"
-- Miriam North Ridao: "Towards Machine-Learned Subgrid Parameterisations in a Double-Gyre Quasi-Geostrophic Model"
-- Thomas Wilder: "Towards model-independent machine learning parameterisations of mesoscale eddies"
-- Ben Timmermans: "Towards estimation of impacts of ocean surface wave breaking on long term climate using recent wave hindcasts, emulators and climate models"
 
-
-Posters should be A0 portrait at maximum please.
+Posters should be A0 portrait maximum please, to fit the poster boards (so A1 landscape is fine etc.).
 {: .notice--info}
+
+James While | "Machine learned ocean prediction at the Met Office: The SPrAI project"
+Jonathan Coney | "Interpolating sparse ocean observations using machine learning"
+Miriam North Ridao | "Towards Machine-Learned Subgrid Parameterisations in a Double-Gyre Quasi-Geostrophic Model"
+Thomas Wilder | "Towards model-independent machine learning parameterisations of mesoscale eddies"
+Ben Timmermans | "Towards estimation of impacts of ocean surface wave breaking on long term climate using recent wave hindcasts, emulators and climate models"
+
+
 
 #### 12:30 - 13:15 | Lunch
 
-#### 13:15 - 14:00 | Keynote talk - Pavel Perezhogin: "Data-driven approaches for parameterizing ocean mesoscale eddies"
+#### 13:15 - 14:00 | Keynote talk 
+
+Pavel Perezhogin: "Data-driven approaches for parameterizing ocean mesoscale eddies"
 
 #### 14:00 - 15:00 | Oral session 3 - Integrating ocean processes and hybrid physics-ML modelling
 
