@@ -56,7 +56,6 @@ Rosie Lickorish: "What Geospatial Foundation Models can do for Ocean Modelling"
 #### 16:00 - 17:30 | Breakout discussions
 
 - Topics and questions TBC
-- There is space on the registration form for suggestions.
 
 #### 17:30 | Close
 
@@ -65,29 +64,29 @@ Rosie Lickorish: "What Geospatial Foundation Models can do for Ocean Modelling"
 
 ## 🕘Day 2 - Wednesday 8 July 2026 
 
-#### 09:00 - 11:05 | Oral session 2 - ML for observations, modelling and data assimilation 
+#### 09:00 - 09:15 | Arrival
+
+#### 09:15 - 11:00 | Oral session 2 - ML for observations, modelling and data assimilation 
 
 20 minute (15 + 5) talks
 {: .notice--info}
     
-*09:00 - 09:20* | Gian Giacomo Navarra: "Seasonal Variability of Organic Carbon Flux and Remineralization Inferred With a Bayesian Physics-Informed Neural Network"
+*09:15 - 09:35* | Gian Giacomo Navarra: "Seasonal Variability of Organic Carbon Flux and Remineralization Inferred With a Bayesian Physics-Informed Neural Network"
     
-*09:20 - 09:40* | Jozef Skakala: "How to emulate a highly complex marine ecosystem model with deep learning"
+*09:35 - 09:55* | Jozef Skakala: "How to emulate a highly complex marine ecosystem model with deep learning"
+
+*09:55 - 10:00* | Comfort break
     
-*09:40 - 10:00* | Niraj Agarwal: "Skillful Global Ocean Emulation and the Role of Correlation-Aware Loss"
+*10:00 - 10:20* | Rachel Furner: "Developing a data-driven 3d global ocean model at ECMWF"
     
-*10:00 - 10:05* | Comfort break
+*10:20 - 10:40* | Daniel Holmberg: "Njord: A Probabilistic Graph Neural Network for Ensemble Ocean Forecasting"
     
-*10:05 - 10:25* | Rachel Furner: "Developing a data-driven 3d global ocean model at ECMWF"
-    
-*10:25 - 10:45* | Daniel Holmberg: "Njord: A Probabilistic Graph Neural Network for Ensemble Ocean Forecasting"
-    
-*10:45 - 11:05* | Thomas Gardner:  "FRAME-FM: a discussion on a joint EDS framework for making AI model training more approachable"
+*10:40 - 11:00* | Thomas Gardner:  "FRAME-FM: a discussion on a joint EDS framework for making AI model training more approachable"
 
 
-#### 11:05 - 11:30 | Tea and coffee
+#### 11:00 - 11:30 | Tea and coffee
 
-#### 11:35 - 12:30 | Poster session
+#### 11:30 - 12:30 | Poster session
 
 Posters should be A0 portrait maximum please, to fit the poster boards (so A1 landscape is fine etc.).
 {: .notice--info}
@@ -115,7 +114,9 @@ Pavel Perezhogin: "Data-driven approaches for parameterizing ocean mesoscale edd
     
 *14:20 - 14:40* | Marcus Juniper: "Lightweight approaches for real-time observation driven bias correction"
 
-#### 14:40 | Closing discussion
+*14:40 - 15:00* | Niraj Agarwal: "Skillful Global Ocean Emulation and the Role of Correlation-Aware Loss"
+
+#### 15:00 | Closing discussion
 
 
 All times are in BST (GMT +1).
