@@ -25,7 +25,7 @@ The schedule is provisional and subject to change.
 Rosie Lickorish: "What Geospatial Foundation Models can do for Ocean Modelling"
 
 
-#### 11:00 - 12:20 | Oral session 1 - ML for analysis and downstream applications
+#### 11:00 - 12:30 | Oral session 1 - ML for analysis and downstream applications
 
 20 minute (15 minutes for presenting + 5 minutes for questions) talks
 {: .notice--info}
