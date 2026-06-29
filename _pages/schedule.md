@@ -10,37 +10,38 @@ Details of the schedule are below. Over the two days, we have three sessions wit
 The schedule is provisional and subject to change.
 {: .notice--warning}
 
+**Last updated 29th June**
+
+
 
 ## 🕘Day 1 - Tuesday 7 July 2026
 
 
-#### 09:30 - 10:00 | Arrival
+#### 10:00 - 10:20 | Arrival
 - Tea and coffee
 
-#### 10:00 - 10:15 | Opening remarks
+#### 10:20 - 10:35 | Opening remarks
 - Introduction to the workshop and key themes
 
-#### 10:15 - 11:00 | Keynote talk
+#### 10:35 - 11:20 | Keynote talk
 
 Rosie Lickorish: "What Geospatial Foundation Models can do for Ocean Modelling"
 
 
-#### 11:00 - 12:30 | Oral session 1 - ML for analysis and downstream applications
+#### 11:20 - 12:40 | Oral session 1 - ML for analysis and downstream applications
 
 20 minute (15 minutes for presenting + 5 minutes for questions) talks
 {: .notice--info}
 
-*11:00 - 11:20* | Thomas Prime: Physically Informed Neural Network to infer δ¹⁸O distributions from routinely observed oceanographic variables
+*11:20 - 11:40* | Thomas Prime: Physically Informed Neural Network to infer δ¹⁸O distributions from routinely observed oceanographic variables
     
-*11:20 - 11:40* | Mojtaba Masoudi: The Geometry of Embedded Representations for Long-Tailed Classification
+*11:40 - 12:00* | Mojtaba Masoudi: The Geometry of Embedded Representations for Long-Tailed Classification
     
-*11:40 - 12:00* | Yavor Kostov: Transient irreversibility of southern extratropical water mass anomalies under CO2 forcing
+*12:00 - 12:20* | Yavor Kostov: Transient irreversibility of southern extratropical water mass anomalies under CO2 forcing
     
-*12:00 - 12:20* | Ollie Tooth: OceanDataStore: Accelerating Machine Learning & Model Validation with Cloud-Native Ocean Data
+*12:20 - 12:40* | Ollie Tooth: OceanDataStore: Accelerating Machine Learning & Model Validation with Cloud-Native Ocean Data
     
-*12:20 - 12:30* | Posters: 1 minute introductions
-
-#### 12:30 - 13:30 | Lunch
+#### 12:40 - 13:30 | Lunch
 
 
 #### 13:30 - 14:00 | Practical session: Introduction
@@ -53,7 +54,9 @@ Rosie Lickorish: "What Geospatial Foundation Models can do for Ocean Modelling"
 
 #### 15:30 - 16:00 | Tea and coffee
 
-#### 16:00 - 17:30 | Breakout discussions
+#### 16:00 - 16:10 | Posters: 1 minute introduction slides
+
+#### 16:10 - 17:30 | Breakout discussions
 
 - Topics and questions TBC
 
